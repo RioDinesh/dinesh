@@ -1,0 +1,8 @@
+# dinesh
+
+i have created a backend api to login and signup a user 
+
+model----wich contain the the schema
+index-----is the main server router
+validtion and token--used to validate the user and provide session handler
+.env ----- its an env var
